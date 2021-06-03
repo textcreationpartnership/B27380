@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from sea, or, A True relation brought from Dover of a terrible tempest of thunder and lightning which on the 26 of July last, kill'd outright one William Eaton of Dover, on board a ship called the Henry and Mary, David Huggett, master, bound for Newcastle ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27380</idno><idno type="EEBO-CITATION">31355563</idno>
+  <idno type="VID">187752</idno>
+  <idno type="EEBO-PROQUEST">2248546178</idno>
+  
+            <idno type="STC">Wing N999</idno>
+            <idno type="OCLC">31355563</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187752)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from sea, or, A True relation brought from Dover of a terrible tempest of thunder and lightning which on the 26 of July last, kill'd outright one William Eaton of Dover, on board a ship called the Henry and Mary, David Huggett, master, bound for Newcastle ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Aug. 22, 1676. Ro. L'Estrange.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Eaton, William, d. 1676.</term>
+               <term type="corporate_name">Henry and Mary (Ship)</term>
+               <term type="topical_term">Thunderstorms --  England.</term>
+               <term type="topical_term">Natural disasters.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187752:1"/>
+            <pb facs="tcp:187752:2"/>
+            <p>NEWS from SEA: Or, a true RELATION Brought from <hi>DOVER</hi> Of a terrible Tempest of THUNDER and LIGHTNING; Which on the 26 of <hi>July</hi> last kill'd outright one <hi>William Eaton</hi> of <hi>Dover,</hi> on board a Ship cal<g ref="char:EOLhyphen"/>led the <hi>Henry</hi> and <hi>Mary, David Huggett</hi> Master, bound for <hi>Newcastle,</hi> and lying off of the <hi>Kentish Knock,</hi> and with its violence struck down a Boy, so that he lay as dead for a considerable time.</p>
+            <p>As likewise how the said Ships Top-mast was burnt with the Lightning, and her Main-mast strangely split with the Thunder, and rendred utterly unserviceable, <hi>&amp;c.</hi>
+            </p>
+            <p>The truth whereof is well known to most Inhabitants of <hi>Dover,</hi> there being many Eye-wit<g ref="char:EOLhyphen"/>nesses that saw the Tackling spoil'd and the said dead Corps, when the Vessel (disabled to pursue its Voyage) put in there again.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Aug.</hi> 22. 1676.</date>
+                           </dateline>
+                           <signed>Ro. L'Estrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:187752:3"/>
+            <pb n="3" facs="tcp:187752:3"/>
+            <head>Strange and wonderful News from <hi>Dover,</hi> &amp;c.</head>
+            <p>AMongst all the familiar Wonders which Almighty God performs and brings to pass in the world by the ministry of his Handmaid Nature, there is scarce any more remarkable than that of Thunder and Lightning: How confounded are the Learned in their searches after the cause? and how blinded when they go about to give a rational account of its effects? The proud Heathen Emperor whom his own vanity and others flatteries had puff'd up with a conceit of his being little less than a De<g ref="char:EOLhyphen"/>ity, when once he heard a Volley of Heavens Ar<g ref="char:EOLhyphen"/>tillery discharg'd in a Thunder clap, confess'd him<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> less than man, and in a ridiculous Cowar<g ref="char:EOLhyphen"/>dize endeavour'd to hide himself under a bed: Nor can the most steeled Atheist or mocker of Religion weather a Tempest without betraying his guilty fears with the trembling of his Joynts &amp; the paleness of his Countenance.—<hi>The voice of thy
+<pb n="4" facs="tcp:187752:4"/> thunder maketh them afraid,</hi> saith the <hi>Psalmist:</hi> and well it may, if we consider either the astoni<g ref="char:EOLhyphen"/>shing Horrour it carries with it in its manner, or the lamentable Disasters frequently occasion'd thereby. Of both these the present Relation is a sad and sufficient Testimony.</p>
+            <p>On <hi>Wednesday</hi> the 26th of <hi>July</hi> last, a Ship cal<g ref="char:EOLhyphen"/>led the <hi>Henry</hi> and <hi>Mary</hi> belonging to <hi>Dover,</hi> Mr. <hi>D. H.</hi> Master, being outward bound for <hi>Newcastle</hi> (the <hi>Northern Indies</hi> of our little <hi>Bri<g ref="char:EOLhyphen"/>tish</hi> world) lying at an Anchor off of the <hi>Ken<g ref="char:EOLhyphen"/>tish Knock,</hi> a mighty Tempest of Thunder and Lightning arose; the whole Hemisphere from the <hi>Zenith</hi> to the <hi>Horizon</hi> was overspread with thick pitchy Clouds, which permitted little more light than what proceeded from terrible and frequent Flashes. The roaring seem'd so great, as if the whole frame of the World had been about to be dissolved, and every Star hurl'd from its Sphere, to be violently bandied against the rest. In the midst of this amazing Conflict of the Elements, a Thunder-bolt (or what is usually so called) happen'd to light upon the aforesaid Ship, and in a moment struck one of the Ships Crew, na<g ref="char:EOLhyphen"/>med <hi>William Eaton,</hi> stone-dead upon the Deck, and yet not the least appearance of a wound to be discovered about his whole body, but some parts of it turned very black, or of an unusual Li<g ref="char:EOLhyphen"/>vid colour; and at the same time a Boy belong<g ref="char:EOLhyphen"/>ing to the Master, was likewise stauck down and
+<pb n="5" facs="tcp:187752:4"/> lay for dead a considerable time without breath<g ref="char:EOLhyphen"/>ing sensibly, or giving any Symptomes of Life, save only his continuing warm; which encou<g ref="char:EOLhyphen"/>raged them, assoon as they hid leisure, to use means for his Recovery, which at last they ob<g ref="char:EOLhyphen"/>tained, bringing him again to life, and he is like to do well; but for <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he present was miserably bruised in all parts of his Body, and yet nothing did touch him but the Lightening, nor was his Skin any way broken: But as for the other man, he was absolutely struck dead in an instant, no Art or Means being able to recover him.</p>
+            <p>But besides this particular personal Damage, the whole Ship was in no little danger; For their Top mast was set on fire by the Lightning, and burning furiously was very like to have de<g ref="char:EOLhyphen"/>stroyed them; but bestirring themselves with that diligence which became them in such an exigence, they prevented that disaster, though the said Mast (as they report) continued burning all Night.</p>
+            <p>Nor did their Main Mast escape much better, for it was split in two above half way, and each part wrythed and twisted round like a Wyth, very strange and wonderful to behold, so that it was rendred utterly unserviceable: And that which makes this Accident more remarqueable is, that there lay another Ship just by, who re<g ref="char:EOLhyphen"/>ceived not the least damage or prejudice in her Men or Tackling.</p>
+            <pb n="6" facs="tcp:187752:5"/>
+            <p>We have it lately asserted in Print from good Authority, that Two Ships sayling to the <hi>West-Indies,</hi> about the Latitude of <hi>Bermudas,</hi> a tem<g ref="char:EOLhyphen"/>pest of Thunder setting part of one of their Rigging on fire, with other damage, caused this worder too, That the Needle or their Compass shifted its Points clean contrary, stand ng to the <hi>South</hi> instead of the <hi>North,</hi> which misled the Marriners, so that they shap'd their Course di<g ref="char:EOLhyphen"/>rectly back again; and yet did not dream but they had been very orderly pursuing their Voy<g ref="char:EOLhyphen"/>age, till the other Ship admiring at it Tackt, and coming up to them found out the mistake, and lent them a pair of Compasses, for all the Com<g ref="char:EOLhyphen"/>passes the other had on board were changed as aforesaid; and if they turn'd the Needle with their finger to the <hi>North,</hi> it would not fix, but presently return to the <hi>South</hi> Point: Whether any such thing were observed in the present Case, I cannot affirm; but this is certain, that they were forced to put in again at <hi>Dover,</hi> where they Refl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted, and the dead body being there brought ashore, was buried, having been first viewed by divers people.</p>
+            <p>What remains, but that all Persons that shall read or hear this sad and most true Relation, be intreated and seriously admonish'd to consider and lay to heart, the great uncertainty of Life; How strangely, how unexpectedly, how sud<g ref="char:EOLhyphen"/>denly, in a moment, may we be snatcht away:
+<pb n="7" facs="tcp:187752:5"/> And then what manner of persons ought we to be in all Godliness and holy Conversation, lest that Day, that terrible m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of Death, come upon us not only unawares, but take us unpre<g ref="char:EOLhyphen"/>pared without an Interest in Christ, or any assu<g ref="char:EOLhyphen"/>rance obtained of Reconciliation and Peace with God, or of his Love and Pardon to our poor immortal Souls; let us not defer Repentance, let us not put off Amendment of Life (as too many do) until to morrow, for who knows but this Hour, this Minute may be our last?</p>
+            <p>Nor may this less stir us up to a constant and conscientious performance of the Duty of Pray<g ref="char:EOLhyphen"/>er, which as it is ever profitable, and at all times commendable, so it is dayly needful; at Night it is our Covering, in the Morning 'tis our Armour: Nor can we at any time promise our selves the least Safety or Security, but what we obtain from the Almighties protective providence. I was credibly informed, that about two Months ago, a Minister of an eminent Town in the <hi>West</hi> of <hi>England,</hi> upon a great Tempest of Thunder and Lightening hapning in the Night, having called up his whole Family to wait upon the Lord in Prayer, as they were on their knees in a Parlour, a Thunder-bolt (or what you please to call it) came in at the top of the house, and so down through several Chambers, tearing the Timber and Walls, and making great havock as it passed, till it came to the said Parlour, which
+<pb n="8" facs="tcp:187752:6"/> it went clear through, and struck out the Can<g ref="char:EOLhyphen"/>dle, with so much terrour, that each person thought all the rest were destroyed. But the gracious God they were calling upon, preserved them all safe, so that not a Hair of any persons Head present was hurt thereby.</p>
+            <p>So good it is in all our dangers and distresses to cast our selves in Faith upon the God of our Sal<g ref="char:EOLhyphen"/>vation, who never deceiveth those that trust in him: Let us all therefore, warned by such fre<g ref="char:EOLhyphen"/>quent Examples, labour while it is called to day, to work out our Salvation with fear and trem<g ref="char:EOLhyphen"/>bling: Let us dayly live as if every day we ex<g ref="char:EOLhyphen"/>pected to die: Let us walk soberly and righte<g ref="char:EOLhyphen"/>ously in this present evil world; and in all our out goings, undertakings, and perils, commit our selves to the Mercies of God as unto a faithful Creator, and then no evil shall happen unto us.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187752:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
